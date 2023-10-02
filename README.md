@@ -25,8 +25,9 @@ As a creative & passionate developer and fast learner with detail and high quali
 
 - Move (Aptos & Sui)
 - Solidity(ERC-20, 721, 721A, 1155) to write various contracts
-- React.js
+- NextJS
+- ReactJS
 - Tailwind
 - Bootstrap
-- Web3 integration
-- Node/Python
+- NodeJS
+- Python
