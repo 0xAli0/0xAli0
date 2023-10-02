@@ -15,8 +15,10 @@ As a creative & passionate developer and fast learner with detail and high quali
 ## 📈 Github Status
 
 
-<img align="" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAli0&exclude_repo=0xAli0.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
-<img align="right" height="180px" src="https://github-readme-stats.vercel.app/api?username=0xAli0&sshow_icons=true&theme=radical&count_private=true">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 <br />
 <br />
@@ -37,10 +39,7 @@ As a creative & passionate developer and fast learner with detail and high quali
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+
 
 ###
 
